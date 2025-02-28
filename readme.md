@@ -1,34 +1,42 @@
-# 📌 Travelgram - Single Page
 
-Este repositório contém um projeto de uma Single Page criada para fins educativos, criado com a ajuda da Rocketseat. O objetivo foi melhorar os conhecimentos em HTML, CSS e a capacidade de seguir um design do Figma.
+<h1 align="center"> Projeto Travelgram </h1>
 
-## 🚀 Tecnologias Utilizadas
+<p align="center">
+Este projeto, desenvolvido em aula, faz parte da trilha Full-Stack, promovido pela Rocketseat para ensino de tecnologias WEB.  <br/>
+</p>
 
-- HTML5
-- CSS3
+<p align="center">
+  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#licença">Licença</a>
+</p>
 
-## 🎯 Objetivo do Projeto
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000"">
+</p>
 
-Criar uma página responsiva com um design atrativo, utilizando boas práticas de estruturação e estilização de elementos.
+<br>
 
-## 🛠 Como Utilizar
+<p align="center">
+  <img alt="Travelgram" src="assets/Thumbnail.png" width="100%">
+</p>
 
-1. Clonar o repositório:
+## Tecnologias
 
-   ```bash
-   git clone https://github.com/RodrigoCarrico01/SinglePage_Travelgram.git
-   ```
+- **HTML5** para estruturação do conteúdo
+- **CSS3** para estilização
+- **Google Fonts** para personalização da tipografia
 
-2. Abrir o ficheiro `index.html` num navegador.
+## Projeto
 
 
-## 📄 Licença
 
-Este projeto é de uso livre para estudo e aprendizado.
+- [Visita o projeto online!](https://rodrigocarrico01.github.io/SinglePage_Receita/)
+
+
+## Licença
+
+Esse projeto está sob a licença MIT.
 
 ---
-
-✉️ Qualquer sugestão ou dúvida, entra em contacto!
-
-🌎 [LinkedIn](https://www.linkedin.com/in/rodrigo-martins-programador/)
 

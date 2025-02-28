@@ -31,7 +31,7 @@ Este projeto, desenvolvido em aula, faz parte da trilha Full-Stack, promovido pe
 
 
 
-- [Visita o projeto online!](https://rodrigocarrico01.github.io/SinglePage_Receita/)
+- [Visita o projeto online!](https://rodrigocarrico01.github.io/SinglePage_Travelgram/)
 
 
 ## Licença
